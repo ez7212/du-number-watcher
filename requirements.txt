@@ -1,0 +1,4 @@
+cat > requirements.txt << 'EOF'
+playwright
+requests
+EOF
