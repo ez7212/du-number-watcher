@@ -31,8 +31,8 @@ DU_URL = "https://shop.du.ae/en/personal/s-du-prepaid-flexi-plans"
 # Each tuple is: (what you type in the search box, what you expect to see in the results).
 NUMBERS_TO_CHECK: List[Tuple[str, str]] = [
     ("282 0202", "282 0202"),
-    # Add more if you like, for example:
     ("1051661", "1051661"),
+    ("6777679", "6777679"),
 ]
 
 # Telegram bot credentials.
